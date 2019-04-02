@@ -1,4 +1,9 @@
-Download from Github
+This is a personal project on creating a REST API using Spring Boot framework.
+
+The application uses Spring , Maven and MongoDB.
+
+
+To use the code:
 
 Option1) 
 -- Import the project into IDE as maven project
